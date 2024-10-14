@@ -102,3 +102,4 @@ mvn checkstyle:checkstyle
 All licenses in this repository are copyrighted by their respective authors.   
 Everything else is released under Apache 2.0. See [LICENSE](https://github.com/remsfal/remsfal-backend?tab=Apache-2.0-1-ov-file#readme) for details.
 
+Test
